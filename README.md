@@ -3,10 +3,6 @@
 ## 📌 Overview
 This project demonstrates the process of cleaning and standardizing a raw customer dataset in **Microsoft Excel**. The goal was to transform an inconsistent, error-prone spreadsheet into a clean, structured, and analysis-ready dataset.
 
-## 🖼️ Before & After
-
-![Before and After](before_after_thumbnail.png)
-
 ## 🎯 Objective
 Raw business data is rarely ready for analysis. This project simulates a real-world scenario where a customer call list contains typos, inconsistent formatting, duplicate records, and unnecessary columns — and walks through the steps taken to clean it.
 
@@ -38,7 +34,6 @@ A properly structured dataset where:
 |------|-------------|
 | `before.xlsx` / screenshot | Original raw dataset |
 | `after.xlsx` / screenshot | Final cleaned dataset |
-| `before_after_thumbnail.png` | Visual comparison of raw vs. cleaned data |
 
 ## 📈 Key Takeaway
 This project highlights core **data cleaning** skills essential for any data analyst — including standardization, deduplication, restructuring, and formatting — which form the foundation for accurate and reliable data analysis.
