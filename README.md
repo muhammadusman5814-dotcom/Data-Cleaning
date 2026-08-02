@@ -1,4 +1,4 @@
-# Customer Call List – Data Cleaning Project Usibg Pandas
+# Customer Call List – Data Cleaning Project Using Pandas
 
 ## Overview
 
