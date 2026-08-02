@@ -1,4 +1,4 @@
-# Customer Call List – Excel Data Cleaning Project
+# DATA CLEANING USING PANDAS
 
 ## 📌 Overview
 This project demonstrates the process of cleaning and standardizing a raw customer dataset in **Microsoft Excel**. The goal was to transform an inconsistent, error-prone spreadsheet into a clean, structured, and analysis-ready dataset.
