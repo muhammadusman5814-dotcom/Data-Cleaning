@@ -56,3 +56,8 @@ Exercise dataset from **Alex the Analyst** — [YouTube](https://www.youtube.com
 **Muhammad Usman**
 Data Analytics Student | Aspiring Data Analyst
 [LinkedIn](https://www.linkedin.com/in/muhammad-usman-332988310)
+
+## License
+This repository is for portfolio/demonstration purposes only. 
+All rights reserved. Unauthorized copying, use, or distribution 
+is not permitted without explicit permission.
